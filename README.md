@@ -1,4 +1,4 @@
-# SMMT Project
+# Social Media Management Tool Project On Excel And Tableau
 
 ![synkify](https://github.com/mikeolaniyi/SMMT_Project/assets/120651356/93fde8e7-652c-4326-bc6d-9995e2641be0)
 
