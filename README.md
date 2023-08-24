@@ -4,7 +4,7 @@
 
 
 
-The Social Media Management Tool Project was a research I carried out to generate a report for my team with regards to the SMMT project we were developing at the time Called Synkify. This software was designed to help businesses integrate all their Social media on one user interface. 
+The Social Media Management Tool Project was a research endeavour I conducted to produce a report containing actionable insights for my team regarding the Social Media Management Tool project we were developing. This project, known as Synkify, aimed to facilitate businesses in integrating all their social media platforms within a unified user interface. The ultimate goal was to enhance interactions between businesses and customers, optimizing their effectiveness. 
 
 The dataset of this project was a collection of data from web research. The analysis was done in Excel and visualization was done in Tableau.
 
